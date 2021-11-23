@@ -11,6 +11,9 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>shared</module>
+        <module>web-utils</module>
+        <module>shelf</module>
     </modules>
 
     <build>
