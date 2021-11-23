@@ -6,7 +6,6 @@ import org.springframework.http.ResponseEntity;
 
 import static io.vavr.API.*;
 import static org.library.result.Failure.Reason.*;
-import static org.springframework.http.HttpStatus.BAD_REQUEST;
 
 public final class ResponseMapper {
     private ResponseMapper() {
